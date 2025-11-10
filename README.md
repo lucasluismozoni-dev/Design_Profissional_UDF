@@ -1,4 +1,4 @@
-# Design_Profissional_UDF
+# Design Profissional - Ciência da Computação
 
 Repositório para atividades da disciplina **Design Profissional**.
 
